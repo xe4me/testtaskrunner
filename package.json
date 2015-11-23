@@ -1,0 +1,25 @@
+{
+  "name": "testtaskrunner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xe4me/testtaskrunner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xe4me/testtaskrunner/issues"
+  },
+  "homepage": "https://github.com/xe4me/testtaskrunner#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.5"
+  }
+}
