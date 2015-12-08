@@ -1,0 +1,13 @@
+*{
+	color: red;
+}
+
+ul li a {
+	background-color: red;
+}
+
+div p a {
+	color : red;
+	border : red solid ;
+	padding-right: 20px ;
+}
