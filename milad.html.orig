@@ -1,0 +1,13 @@
+# a line
+#Fixed broken email in milad.html on master branch 
+
+Changed something in milad.html
+
+somethig added to create merge conflict with master
+
+#to create a conflict 
+<<<<<<< HEAD
+Another line in master 
+=======
+Adde this line in feature/conflicter to create a conflict
+>>>>>>> feature/conflicter
